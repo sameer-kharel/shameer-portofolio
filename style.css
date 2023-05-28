@@ -19,16 +19,34 @@ section,
 p,
 span,
 svg{
-  transition: background-color 0.5s, color 0.5s;
+  transition: background-color 0.4s, color 0.4s;
 }
 
+
+/* 
+
 :root{
-  /* Light Theme Variables */
+  
+  /* Light Theme Variables *
   --color-text-light: #333332;
   --color-background-light: #FAF4E5;
   --color-pink-light: #e5a1aa;
   --color-green-light: #7AD0AC;
   --color-blue-light: #8395CD;
+
+*/
+
+
+:root{
+  
+  /* Light Theme Variables */
+  --color-text-light: #2E5266FF;
+  --color-background-light: #D3D0CBFF;
+  --color-pink-light: #6E8898FF;
+  --color-green-light: #9FB1BCFF;
+  --color-blue-light: #8395CD;
+
+
 
   /* Dark Theme Variables */
   --color-text-dark: #FAF4E5;
